@@ -1,0 +1,13 @@
+//META{"name":"CoronaIsTime","description":"Theme pas comme les autres car il et infecter du Corona Ma Guelle !!! - By PrincessAsuna","author":"PrincessAsuna","version":"Mise a jour auto"}*//
+@import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
+@import url('https://codedotspectra.github.io/themes/mini-themes/statusRounded.css');
+:root {
+--bgImage: url('https://media.giphy.com/media/MCAFTO4btHOaiNRO1k/giphy.gif');
+--HomeButtonImg: url('https://media.giphy.com/media/MCAFTO4btHOaiNRO1k/giphy.gif');
+--brightness: 0;
+--PrimaryColor01: #f70227;
+--PrimaryColorRGBA: rgba(247,2,39,.15);
+--links: #77ff7a;
+--ChatTextColor: #fff30d;
+--ChannelsDefaultTextColor: #ef9f27;
+}
